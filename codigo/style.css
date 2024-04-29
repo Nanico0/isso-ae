@@ -1,1 +1,11 @@
-@import url('')
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+    :root{
+        --branco: white;
+        --cor-de-fundo: black;
+        --fundo-senha: midnightblue;
+        --fundo-texto: darkblue;
+        --borda: crimson;
+        --reboto: 'Roboto', sans-serif;
+        --reboto-
+    }
