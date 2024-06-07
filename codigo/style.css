@@ -9,3 +9,12 @@
         --reboto: 'Roboto', sans-serif;
         --reboto-
     }
+
+    *{
+        font-weight: 400;
+    }
+
+    body{
+        color:var(--branco)
+        
+    }
